@@ -5,4 +5,4 @@
 Запуск приложения: gcc game_of_life.c
                    ./a.out Название тестового файла
 
-                   ![alt text](images/image.png)
+                   ![Пример работы](images/image.png)
